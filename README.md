@@ -1,2 +1,2 @@
 # Quickstart-ios-app-
-created by swift personal project
+created by objective-c personal project
